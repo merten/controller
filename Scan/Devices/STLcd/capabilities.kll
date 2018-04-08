@@ -42,9 +42,9 @@ STLcdBacklightGreen => STLcdBacklightGreen_define;
 STLcdBacklightBlue  => STLcdBacklightBlue_define;
 
 # Defaults to 6% brightness, white
-STLcdBacklightRed   = 0x0FFF;
-STLcdBacklightGreen = 0x0FFF;
-STLcdBacklightBlue  = 0x0FFF;
+STLcdBacklightRed   = 0x00FF;
+STLcdBacklightGreen = 0x00FF;
+STLcdBacklightBlue  = 0x00FF;
 
 
 # Default LCD Image
